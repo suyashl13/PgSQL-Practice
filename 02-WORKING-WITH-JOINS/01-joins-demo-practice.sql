@@ -27,7 +27,7 @@ VALUES
  
 INSERT INTO photos (url, user_id)
 VALUES
-  ('https://santina.net', 3),
+        ('https://santina.net', 3),
         ('https://alayna.net', 5),
         ('https://kailyn.name', 3),
         ('http://marjolaine.name', 1),
